@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Deployed Link
+https://clock-quotes-65u7.vercel.app/
+
 ## Testing Credentials
 Email/Username : john@gmail.com
 Password : John@123
