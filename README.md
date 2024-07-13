@@ -9,6 +9,11 @@ Password : John@123
 Email/Username : virat@gmail.com
 Password : Virat@123
 
+## Project Snippets
+![Login](https://github.com/user-attachments/assets/52a0459f-3309-4aaa-b99b-1319668f3eb2)
+![Signup](https://github.com/user-attachments/assets/dabd2bc0-cf0c-48ae-bbd5-292011da55eb)
+![Analog Home Page](https://github.com/user-attachments/assets/e3ccad1c-7304-4ca4-87de-45efcab520b0)
+
 ## Available Scripts
 
 In the project directory, you can run:
